@@ -1,0 +1,23 @@
+{
+  "name": "play_58701072",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ya3ya6/play52451.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ya3ya6/play52451/issues"
+  },
+  "homepage": "https://github.com/ya3ya6/play52451#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
